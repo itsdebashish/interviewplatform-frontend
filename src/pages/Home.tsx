@@ -3,8 +3,8 @@ import { Link } from "react-router-dom";
 function Home() {
   return (
     <main className="min-h-screen bg-slate-50">
-      <section className="mx-auto flex min-h-screen max-w-7xl justify-center items-center px-6 py-16">
-        <div className="max-w-3xl">
+      <section className="mx-auto flex min-h-screen max-w-5xl justify-center items-center px-6 py-16">
+        <div className="max-w-5xl">
           <span className="rounded-md bg-slate-100 px-3 py-1 text-sm font-medium text-slate-700">
             AI Interview Platform
           </span>
